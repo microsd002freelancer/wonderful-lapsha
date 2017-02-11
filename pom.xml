@@ -41,68 +41,8 @@
         <org.springframework.redis-version>1.7.2.RELEASE</org.springframework.redis-version>
         <jedis-version>2.9.0</jedis-version>
     </properties>
-    <dependencies>
-        <dependency>
-            <groupId>com.connectflexi.frontend</groupId>
-            <artifactId>ostrovok</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.connectflexi.frontend</groupId>
-            <artifactId>bronevik</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.connectflexi.frontend</groupId>
-            <artifactId>arrigo</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.connectflexi.frontend</groupId>
-            <artifactId>attica</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.connectflexi.frontend</groupId>
-            <artifactId>aviacenter</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.connectflexi.frontend</groupId>
-            <artifactId>abreu</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.connectflexi.frontend</groupId>
-            <artifactId>teamamerica</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.connectflexi.frontend</groupId>
-            <artifactId>imperatours</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.connectflexi.frontend</groupId>
-            <artifactId>a2btransfers</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.connectflexi.frontend</groupId>
-            <artifactId>itravex</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.connectflexi.frontend</groupId>
-            <artifactId>travco</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.connectflexi.frontend</groupId>
-            <artifactId>ntincoming</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
 
+    <dependencies>
 
         <!-- Spring -->
         <dependency>
